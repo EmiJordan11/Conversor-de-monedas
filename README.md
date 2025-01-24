@@ -1,4 +1,9 @@
-# 💱 Conversor de Monedas
+<div align="center">
+  <img src="./src/main/resources/img/badge%20-%20conversor%20de%20monedas.png" alt="Logo" height="120">
+  <h2>
+    💱 Conversor de Monedas
+  </h2>
+</div> 
 
 ## 📖 Descripción 
 El **Conversor de Monedas** es una aplicación de consola desarrollada en Java que permite convertir valores entre diferentes divisas. Utiliza la API ExchangeRate-API para obtener tasas de cambio actualizadas, ofreciendo una herramienta práctica para cálculos rápidos y precisos.
